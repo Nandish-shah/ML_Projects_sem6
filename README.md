@@ -38,11 +38,8 @@ Built using **Python**, **Streamlit** (or similar UI framework), and **a trained
   - Pandas
   - Scikit-learn
   - NumPy
-- **Model Used**: (e.g., Random Forest / Logistic Regression / XGBoost)  
-  *(Please specify if needed)*
-
+- **Model Used**: ( Random Forest)  
 ## 📷 Screenshots
-
 ### 1. Home Page
 - Project title: *Brain Stroke Prediction System*
 - Attractive layout and welcome message
